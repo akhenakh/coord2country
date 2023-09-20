@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+cmd/gendata/gendata
+cmd/gendata/countries.dat
+cmd/query/query
