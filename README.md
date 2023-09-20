@@ -31,5 +31,5 @@ RSS Memory is around 230MB for the 10M world countries.
 
 ## Projects Using coord2country
 
-- [geo-benthos](https://github.com/akhenakh/geo-benthos) a GIS plugin for [Benthos](https://www.benthos.dev/) a stream processing tool, to enrich stream from coordinates.
+- [geo-benthos](https://github.com/akhenakh/geo-benthos) a GIS plugin for [Benthos](https://www.benthos.dev/), a stream processing tool, to enrich stream from coordinates.
 - [ovr](https://github.com/akhenakh/ovr) the optional `-tags geo` build with the `country` command returns the country of centroid.
