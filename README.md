@@ -1,6 +1,6 @@
 # coord2country
 
-A simple solution to query for point in polygon, very fast, mainly for countries polygons but could server everything.
+A simple solution to query for point in polygon, very fast, mainly for countries polygons but could serve any enclosed regions.
 
 Embedding data from [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/), load precomputed data for fast loading with index into memory using [s2](https://s2geometry.io/).
 
