@@ -221,8 +221,8 @@ func GeomFromLoop(l *s2.Loop) geom.Geometry {
 	coords[l.NumVertices()*2+1] = coords[1]
 
 	seq := geom.NewSequence(coords, geom.DimXY)
-	ls, _ := geom.NewLineString(seq)
-	p, _ := geom.NewPolygon([]geom.LineString{ls})
+	ls := geom.NewLineString(seq)
+	p := geom.NewPolygon([]geom.LineString{ls})
 
 	return p.AsGeometry()
 }

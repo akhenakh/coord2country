@@ -4,6 +4,8 @@ github.com/golang/geo v0.0.0-20230421003525-6adc56603217 h1:HKlyj6in2JV6wVkmQ4Xm
 github.com/golang/geo v0.0.0-20230421003525-6adc56603217/go.mod h1:8wI0hitZ3a1IxZfeH3/5I97CI8i5cLGsYe7xNhQGs9U=
 github.com/peterstace/simplefeatures v0.44.0 h1:wST0EhmdLlVU8IKE24beNpjn3B0v3G1IaJcSKboI6tY=
 github.com/peterstace/simplefeatures v0.44.0/go.mod h1:ub+e2WFVeYzriHxqjmSzW5yqp67KXPAgcUhtQb26ay0=
+github.com/peterstace/simplefeatures v0.46.0 h1:pJVCFxMz0Zbq8xQ+y1PTuu0pkOs2MIGd1NYdAkl+GrY=
+github.com/peterstace/simplefeatures v0.46.0/go.mod h1:nosSwG+GcVmAUBoxFWoyy1hS1qg0RuX0M9tmqsIzFX8=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
