@@ -2,10 +2,14 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/geo v0.0.0-20250516193853-92f93c4cb289 h1:HeOFbnyPys/vx/t+d4fwZM782mnjRVtbjxVkDittTUs=
 github.com/golang/geo v0.0.0-20250516193853-92f93c4cb289/go.mod h1:Vaw7L5b+xa3Rj4/pRtrQkymn3lSBRB/NAEdbF9YEVLA=
+github.com/golang/geo v0.0.0-20260302211937-87f5a40ea07a h1:7f/cr+n7Jtd7mzCLrx47sdVIGabpSSxCHrf6fJczDp0=
+github.com/golang/geo v0.0.0-20260302211937-87f5a40ea07a/go.mod h1:Mymr9kRGDc64JPr03TSZmuIBODZ3KyswLzm1xL0HFA8=
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
 github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
 github.com/peterstace/simplefeatures v0.53.0 h1:D9VbHcdbVrxp4r5dnMU3ltfV6yFt+dyK/uiEV5p/IOk=
 github.com/peterstace/simplefeatures v0.53.0/go.mod h1:nosSwG+GcVmAUBoxFWoyy1hS1qg0RuX0M9tmqsIzFX8=
+github.com/peterstace/simplefeatures v0.58.0 h1:dTY/+HejhbamHps4hx4eXx5tgXkX5TAMe/tgZyv4TkM=
+github.com/peterstace/simplefeatures v0.58.0/go.mod h1:0QH884YeU4jOeM6Bh7EDdDFyYU1L0I0QONxwwFiknqc=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=

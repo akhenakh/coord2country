@@ -134,7 +134,7 @@ func OpenIndexFromGeoJSON(r io.Reader) (*Index, error) {
 
 	idx := NewIndex()
 
-	for _, f := range fc {
+	for _, f := range fc.Features {
 		idx.IndexFeature(f)
 	}
 

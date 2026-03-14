@@ -1,10 +1,10 @@
 module github.com/akhenakh/coord2country
 
-go 1.21.1
+go 1.26.1
 
 require (
-	github.com/golang/geo v0.0.0-20250516193853-92f93c4cb289
-	github.com/peterstace/simplefeatures v0.53.0
+	github.com/golang/geo v0.0.0-20260302211937-87f5a40ea07a
+	github.com/peterstace/simplefeatures v0.58.0
 	github.com/stretchr/testify v1.8.4
 )
 
